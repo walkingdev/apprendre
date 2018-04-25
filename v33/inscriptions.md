@@ -1,5 +1,5 @@
 ---
-title: Apprendre ensemble
+title: Inscription pour "apprendre ensemble"
 description: Liste pour s'inscrire à la session
 image_url: https://github.com/walkingdev/apprendre/blob/master/media/cover-walking-dev.jpg?raw=true
 ---

@@ -1,5 +1,5 @@
 ---
-title: Apprendre ensemble
+title: Prépare ton escapade
 description: Apprendre sans trop se faire éduquer
 image_url: https://github.com/walkingdev/apprendre/blob/master/media/cover-walking-dev.jpg?raw=true
 ---
