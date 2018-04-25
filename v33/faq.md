@@ -13,6 +13,7 @@ image_url: https://github.com/walkingdev/apprendre/blob/master/media/cover-walki
 Nous allons explorer des nouveaux formats pour apprendre ensemble sans trop se faire éduquer.
 
 On va par exemple parler des formats que nous connaissons : [walkingDevs](http://walkingdev.fr), [Agile Open](https://www.infoq.com/articles/self-organizing-organizations), [DevOpenSud](http://devopensud.fr/), µ-scrum, [Forum Ouvert](https://github.com/la-cagette/documentation/blob/master/forum-2016/ag-forum.md), ...
+On va également échanger autour des dispositifs d'apprentissage et partager les pratiques des participant.es
 
 ### C'est quand et où ?
 
@@ -89,5 +90,5 @@ Tu peux contacter :
 
 * [stephane@scopyleft.fr](mailto:stephane@scopyleft.fr)
 ou
-* Pascal
+* [Pascal](mailto:keronos@protonmail.com)
 
