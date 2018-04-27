@@ -20,7 +20,7 @@ Et partager autour de nos pratiques notamment en déambulant dans la ville mais 
 
 ### C'est quand et où ?
 
-L'exploration commencera le 7 juin à 9h - [Au café Laiton](https://www.facebook.com/Cafelaiton) - marché des Capucins.
+L'exploration commencera le 6 juin à 9h - [Au café Laiton](https://www.facebook.com/Cafelaiton) - marché des Capucins.
 Et, ça se termine vers 18h30 pour enchainer sur des trucs encore plus informels au cours de la journée.
 
 ### C'est pour qui ?
@@ -73,7 +73,7 @@ Pour ce montant tu pourras manger, voyager et boire durant toute la journée.
 
 ### Et où passe tout ce butin ?
 
-Ça sert à couvrir les frais de restauration, location et transport et peut-être à financer une partie de la logistique d'un éventuel stage. 
+Ça sert à couvrir les frais de restauration, location et transport et peut-être à financer une partie de la logistique d'un éventuel stage.
 
 ### Et si c’est trop cher pour moi ?
 
