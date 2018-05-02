@@ -71,6 +71,12 @@ Tu peux aussi nous envoyer un mail :[stephane@scopyleft.fr](mailto:stephane@scop
 
 Pour ce montant tu pourras manger, voyager et boire durant toute la journée.
 
+Pour les formalités administratives, quelques éléments :
+* Organisme formateur : scopyleft
+* Adresse du lieu de stage : Café laiton, Marché des capucins, 33800 Bordeaux
+* devis HT et TTC : 89 H.T (108,6 T.T.C)
+* date : 6 juin de 9h à 18h30
+
 ### Et où passe tout ce butin ?
 
 Ça sert à couvrir les frais de restauration, location et transport et peut-être à financer une partie de la logistique d'un éventuel stage.
