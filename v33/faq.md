@@ -14,17 +14,21 @@ Nous allons explorer des nouveaux formats pour apprendre ensemble sans trop se f
 
 On va par exemple parler des formats que nous connaissons : [walkingDevs](http://walkingdev.fr), [Agile Open](https://www.infoq.com/articles/self-organizing-organizations), [DevOpenSud](http://devopensud.fr/), µ-scrum, [Forum Ouvert](https://github.com/la-cagette/documentation/blob/master/forum-2016/ag-forum.md), ...
 
+On va également échanger autour des dispositifs d'apprentissage : faire avec, co-construire, bidouiller, en s'inspirant de certaines pratiques issues de la culture numérique.
+
+Et partager autour de nos pratiques notamment en déambulant dans la ville mais pas que.
+
 ### C'est quand et où ?
 
-L'exploration commencera le 7 juin à 9h - [Au café Laiton](https://www.facebook.com/Cafelaiton) - marché des Capucins.
-Et, ça se termine vers 18h30 pour enchainer sur des trucs encore plus informels.
+L'exploration commencera le 6 juin à 9h - [Au café Laiton](https://www.facebook.com/Cafelaiton) - marché des Capucins.
+Et, ça se termine vers 18h30 pour enchainer sur des trucs encore plus informels au cours de la journée.
 
 ### C'est pour qui ?
 
 * Les personnes curieuses de découvrir des formats pour apprendre sans éducat·eur·rice.
 * Les format·eurs·rices qui souhaitent abaisser leur posture.
 * Les parents qui s'interrogent sur les alternatives à l'éducation.
- 
+
 ### Je me sens pas très à l'aise…
 
 T’inquiète pas, nous non plus ;)
@@ -58,18 +62,24 @@ Si ça te semble beaucoup mais que tu as envie de faire partie de l'aventure, pa
 ### Je m'inscris où ?
 
 Tu peux t'inscrire en éditant cette page sur Github : [inscriptions.md](https://github.com/walkingdev/apprendre/edit/master/v33/inscriptions.md). Ton inscription n'est confirmée qu'une fois que ton nom apparait effectivement sur la page d'[inscriptions](http://walkingdev.fr/#walkingdev/apprendre/blob/master/v33/inscriptions.md).
-
+Si tu n'est pas à l'aise pour t'inscrire sur Github et éditer un fichier en ligne tu peux également utiliser ce [questionnaire](https://framaforms.org/walkingdev-apprendre-1524695210) hébergé chez framasoft.
 Tu peux aussi nous envoyer un mail :[stephane@scopyleft.fr](mailto:stephane@scopyleft.fr)
 
 ### Ça coûte combien cette petite escapade ?
 
-59 € pour les particuliers, et 89 € HT si c’est ta boite qui paye.
+59 € pour les particuliers, et 89 € HT si c’est ta boîte qui paye.
 
 Pour ce montant tu pourras manger, voyager et boire durant toute la journée.
 
+Pour les formalités administratives, quelques éléments :
+* Organisme formateur : scopyleft
+* Adresse du lieu de stage : Café laiton, Marché des capucins, 33800 Bordeaux
+* devis HT et TTC : 89 H.T (108,6 T.T.C)
+* date : 6 juin de 9h à 18h30
+
 ### Et où passe tout ce butin ?
 
-Ça sert à couvrir les frais de restauration, location et transport et peut-être à financer une partie de la logistique d'un éventuelle stage. 
+Ça sert à couvrir les frais de restauration, location et transport et peut-être à financer une partie de la logistique d'un éventuel stage.
 
 ### Et si c’est trop cher pour moi ?
 
@@ -89,5 +99,4 @@ Tu peux contacter :
 
 * [stephane@scopyleft.fr](mailto:stephane@scopyleft.fr)
 ou
-* Pascal
-
+* [Pascal](mailto:keronos@protonmail.com)

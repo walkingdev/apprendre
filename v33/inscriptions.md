@@ -10,4 +10,6 @@ Pour plus d'infos, consulte la [FAQ](http://walkingdev.fr/#walkingdev/elm/blob/m
 
 * *nom - prénom - moyens de contact *
 * Langlois - Stéphane - stephane@scopyleft.fr
-* Pascal - Romain
+* Pascal - Romain - keronos@protonmail.com
+* Cassaigne - Anthony
+* Lucie Ragot - l.ragot@gironde.fr
