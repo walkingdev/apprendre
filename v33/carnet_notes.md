@@ -13,6 +13,7 @@ On se présente. Est ce que l'on a des attentes particulières ? Des envies de d
 * le débat
 * la formation à 2
 * la loi de mobilité
+* vision 10/10
 
 > Kanban de la journée
 
@@ -34,6 +35,16 @@ https://www.espace-chifoumi.fr/
 
 On parle de Posture haute/posture basse : quels avantages et inconvénients ? En général et en particulier dans l'activité de formateur, la posture participe de la transmission
 
+Posture haute:
+* fournit un cadre
+* pas de remise en question
+* faussement sécurisant (en fait, c'est de la pression pour le formateur)
+
+Posture basse :
+* + implicant
+* plus de débordements ?
+* plus de travail d'animation
+
 On parle de la différence entre bienveillance et bientraitance.
 
 Après une théiere verte et 40 min d'échanges on descend la rue du Mirail vers un autre lieux.
@@ -47,6 +58,8 @@ On descend jusqu'à la rue Paul Bert pour se poser dans un café-restaurant
 On parle de la loi des 2 pieds ou loi de mobilité. Du consentement. De susciter l'intérêt ou pas. Pour gérer les attentes des niveaux différents, on propose d'y consacrer un moment en fin de formation ou de proposer aux participant.es d'animer une séquence d'introduction générale sur un sujet technique par exemple pour mettre le groupe au même niveau.
 
 Si on est 2 on peut proposer des ateliers qui tournent et les participant.es assistent à ces séquences ou pas.
+
+Comment créer un contexte convivial sans chaos ?
 
 Si on est 2 c'est plus facile de différentier. Si on est tout seul on essaye de ne pas passer trop de temps sur quelque chose de très simple ou au contraire sur quelque chose de très complexe pour ne pas décourager une partie du groupe.
 
@@ -69,5 +82,11 @@ Sociocratie. Echanges ou débats. On échange et on en débat.
 **Galeries du musée**
 
 Dispositifs de formation alternatifs
+
+Infusion
+Phorésie
+Walking devin
+Mob
+Gymkhana
 
 Fin porte de Bourgogne
